@@ -1,2 +1,8 @@
 # my-projects-in-python
-these are my python project i completed you can use it if you want
+These are my python project I completed, you can use it if you want
+
+The module i used in these projects are listed below:
+>tkinter
+>pyAutoGui
+>random
+>cryptography
